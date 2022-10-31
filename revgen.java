@@ -11,7 +11,7 @@ public class revgen{
                 -a <IP> Listener adress
                 -p <PORT> Listener port
 
-                types: bash,php,python,cmd,powershell
+                types: bash,php,python,powershell
             """;
         System.out.print(helpMessage);
     }
